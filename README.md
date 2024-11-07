@@ -26,9 +26,6 @@
     6. Review and click **Launch**.
     7. The instance is created.
 
-- **Implementation Screenshot**:  
-  ![Creating an Instance - Screenshot](#)
-
 - **Result**: The instance is created successfully.
 
 ---
@@ -43,9 +40,6 @@
     5. Set the desired size.
     6. Click **Create Volume** to complete the creation.
 
-- **Implementation Screenshot**:  
-  ![Creating a Volume - Screenshot](#)
-
 - **Result**: The volume is created successfully.
 
 ---
@@ -55,9 +49,6 @@
 - **Procedure**:
     1. After creating a volume, right-click on it and select **Attach Volume**.
     2. Choose the instance from the dropdown menu and attach it.
-
-- **Implementation Screenshot**:  
-  ![Attaching Volume - Screenshot](#)
 
 - **Result**: The volume is attached to the instance successfully.
 
@@ -71,9 +62,6 @@
     3. Select the volume, right-click, and choose **Create Snapshot**.
     4. Confirm by clicking **Create Snapshot**.
     5. Go to **Snapshots** to view the created snapshot.
-
-- **Implementation Screenshot**:  
-  ![Creating Snapshots - Screenshot](#)
 
 - **Result**: Snapshots for volumes are created successfully.
 
@@ -89,9 +77,6 @@
     5. Set bucket permissions to public in the **Permissions** tab.
     6. Copy the endpoint URL and visit it to see the hosted website.
 
-- **Implementation Screenshot**:  
-  ![Hosting Static Website - Screenshot](#)
-
 - **Result**: The static website is hosted using an S3 bucket.
 
 ---
@@ -103,9 +88,6 @@
     2. Select the snapshot and choose **Create Volume**.
     3. Go to **Volumes**, right-click the newly created volume, and select **Attach Volume**.
     4. Choose the instance from the dropdown menu and attach it.
-
-- **Implementation Screenshot**:  
-  ![Attaching Snapshot - Screenshot](#)
 
 - **Result**: The snapshot is attached to the instance successfully.
 
@@ -119,9 +101,6 @@
     3. Choose the target storage class and save changes.
     4. Confirm the updated storage class in the file’s properties.
 
-- **Implementation Screenshot**:  
-  ![Migrating Storage Class - Screenshot](#)
-
 - **Result**: The file is migrated between storage classes.
 
 ---
@@ -132,9 +111,6 @@
     1. Open the S3 bucket, go to **Permissions**, and adjust the **Bucket Policy** or **ACL**.
     2. In IAM service, create policies for specific users to control access.
     3. Attach policies to grant users controlled access.
-
-- **Implementation Screenshot**:  
-  ![Managing Access Control - Screenshot](#)
 
 - **Result**: Access control is managed successfully.
 
@@ -150,11 +126,6 @@
         1. In the S3 upload process, enable **Server-Side Encryption**.
         2. Go to the **Properties** of the object, enable SSE, and save.
 
-- **Implementation Screenshot**:  
-  ![Client and Server Encryption - Screenshot](#)
-
 - **Result**: Client-side and server-side encryption are enabled for the object.
 
 ---
-
-**End of Lab Record**
