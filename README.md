@@ -12,6 +12,7 @@
 7. [Exercise 7: Migrating a File Between Storage Classes](#exercise-7-migrating-a-file-between-storage-classes)
 8. [Exercise 8: Managing Access Control Over a File/Storage](#exercise-8-managing-access-control-over-a-filestorage)
 9. [Exercise 9: Enabling Client and Server Encryption for an Object](#exercise-9-enabling-client-and-server-encryption-for-an-object)
+10. [PDF Link](#pdf-link)
 
 ---
 
@@ -129,3 +130,6 @@
 - **Result**: Client-side and server-side encryption are enabled for the object.
 
 ---
+
+## PDF Link
+[PDF of Lab Record](https://drive.google.com/drive/folders/1XcZzFs2ZvvzfBenlvbb27zxBH8wcVZiI?usp=sharing)
